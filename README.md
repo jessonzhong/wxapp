@@ -19,4 +19,5 @@ scrapy genspider -t crawl wxapp_spider "wxapp-union.com"
 
 
 ## Preview
-
+![Run](https://github.com/jessonzhong/wxapp/blob/master/image/run.png)
+![Save](https://github.com/jessonzhong/wxapp/blob/master/image/save.png)
